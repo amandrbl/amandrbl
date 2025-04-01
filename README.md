@@ -19,8 +19,8 @@ Me chamo Amanda Rabelo, tenho 18 anos, e moro na cidade de Manaus-AM
 ## Apps developed
 
 <div style = "display: inline_block"><br>
-    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/f79ad4e8-5bdd-458c-8cbb-0bdf6782d9e2"/>
-    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/77158dce-5e38-41a9-b654-46e2d34d3b5e" />
-    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/2dea7f9c-0688-4281-91b9-8c46a3c0f5a8" />
-    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/6e65081d-5483-465c-b0de-cfc8e285c86d" />
+    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/b3f1a012-a7a3-451c-83d7-0ac8c2f64f3e"/>
+    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/22631439-7ef6-4936-b8ff-481321ff1553" />
+    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/af455af8-6090-43a4-b959-9b6352825e76" />
+    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/056b5375-94e5-41a7-93f4-cc8152f61be3" />
 </div>
