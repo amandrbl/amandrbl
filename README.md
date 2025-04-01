@@ -19,7 +19,7 @@ Me chamo Amanda Rabelo, tenho 18 anos, e moro na cidade de Manaus-AM
 ## Apps developed
 
 <div style = "display: inline_block"><br>
-    <img align = "center" height = "50" width = "50" src="file:///Users/amandarabelo/Documents/IconsApps/BadAirIcon.svg"/>
+    <img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/f79ad4e8-5bdd-458c-8cbb-0bdf6782d9e2"/>
     <img align = "center" height = "50" width = "50" src="file:///Users/amandarabelo/Documents/IconsApps/PaladaresIcon.png" />
     <img align = "center" height = "50" width = "50" src="file:///Users/amandarabelo/Documents/IconsApps/QuemMatouMeusCahosIcon.png" />
     <img align = "center" height = "50" width = "50" src="file:///Users/amandarabelo/Documents/IconsApps/LuminaIcon.png" />
