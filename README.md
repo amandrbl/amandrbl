@@ -1,6 +1,6 @@
 ## Hello World! 🌎🩵
 
-Me chamo Amanda Rabelo, tenho 18 anos, e moro na cidade de Manaus-AM
+Me chamo Amanda Rabelo, tenho 19 anos, e moro na cidade de Manaus-AM
 
 - 🍎 Estudante de Desenvolvimento IOS
 - 💻 Técnica em Informática
