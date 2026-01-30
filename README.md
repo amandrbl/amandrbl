@@ -1,10 +1,19 @@
-## Hello World! 🌎🩵
+## 🌎 Hello World!
 
-Me chamo Amanda Rabelo, tenho 19 anos, e moro na cidade de Manaus-AM
 
-- 🍎 Estudante de Desenvolvimento IOS
-- 💻 Técnica em Informática
-- ✨ Sempre buscando aprender mais e mais
+
+## 😊 About Me
+Me chamo Amanda Rabelo e sou desenvolvedora e analista de software.
+Atuo como desenvolvedora iOS, com três aplicativos publicados na App Store.
+Sou técnica em Informática, formada pela Fundação Matias Machline, onde fui vencedora da Feira de Tecnologia 2023 com o projeto UPET.
+Atualmente, curso Análise e Desenvolvimento de Sistemas, aprofundando meus conhecimentos em gestão de projetos e no aprendizado contínuo de diversas linguagens de programação.
+
+- 3 apps publicados na AppStore
+- Formada pela Apple Developer Academy
+- Cursando Análise e Desenvolvimento de Sistemas
+- Técnica em Informática pela Fundação Matias Machline
+- Campeã Geral da Feira de Inovação e Tecnologia FMM 2023
+- Sou manauara, natural do Amazonas
 
 ## Tools I've worked with
 <div style = "display: inline_block"><br>
