@@ -11,17 +11,32 @@ Buscando aprofundar meus conhecimentos em gestão de projetos e no aprendizado c
 - Técnica em Informática pela Fundação Matias Machline
 - <b>Campeã Geral da Feira de Inovação e Tecnologia FMM 2023</b>
 - Sou manauara, natural do Amazonas
+- Contato: amandarabelo.558@gmail.com
 
-## Tools I've worked with
-<div style = "display: inline_block"><br>
+## 🛠️ Ferramentas
+
+### Linguagens & Frameworks
+<p align="left">
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" />
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-</div>
+</p>
 
-## Apps developed
+##
+
+### Ferramentas e outros
+<p align="left">
+   <img align = "center" height = "35" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+   <img align = "center" height = "35" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+   <img align = "center" height = "35" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" />
+   <img align = "center" height = "35" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+</p>
+
+##
+
+## 📱 Apps desenvolvidos
 
 <div style = "display: inline_block"><br>
     <a href="https://github.com/amandrbl/BadAir"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/b3f1a012-a7a3-451c-83d7-0ac8c2f64f3e"/></a>
@@ -30,3 +45,13 @@ Buscando aprofundar meus conhecimentos em gestão de projetos e no aprendizado c
     <a href="https://github.com/amandrbl/Lumina"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/056b5375-94e5-41a7-93f4-cc8152f61be3" /></a>
     <a href="https://github.com/amandrbl/Beezzy"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/0cee4a47-94ff-4e89-be3b-28314c9ac3e8" /></a>
 </div>
+
+##
+
+## 📈 Experiência Profissional
+
+## 🎓 Formação Acadêmica
+
+## ❤️ Competências
+
+## 🌐 Idiomas
