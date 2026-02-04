@@ -1,14 +1,12 @@
 ## 🌎 Hello World!
 
-Me chamo Amanda Rabelo e sou <b>desenvolvedora e analista de software</b>.
-Também atuo como <b>desenvolvedora iOS</b>, com três aplicativos publicados na App Store.
-Sou <b>técnica em Informática</b>, formada pela Fundação Matias Machline.
-Buscando aprofundar meus conhecimentos em gestão de projetos e no aprendizado contínuo de diversas linguagens de programação.
+Me chamo Amanda Rabelo, e sou <b>desenvolvedora e analista de software</b>, além de poder atuar como <b>desenvolvedora iOS</b> e <b>técnica em Informática</b>.
+Sempre buscando aprofundar meus conhecimentos em gestão de projetos e no aprendizado contínuo de diversas linguagens de programação.
 
 - 3 apps publicados na AppStore
 - Formada pela <b>Apple Developer Academy</b>
-- Cursando Análise e Desenvolvimento de Sistemas
-- Técnica em Informática pela Fundação Matias Machline
+- Cursando <b>Análise e Desenvolvimento de Sistemas</b>
+- <b>Técnica em Informática</b> pela Fundação Matias Machline
 - <b>Campeã Geral da Feira de Inovação e Tecnologia FMM 2023</b>
 - Sou manauara, natural do Amazonas
 - Contato: amandarabelo.558@gmail.com
@@ -22,6 +20,7 @@ Buscando aprofundar meus conhecimentos em gestão de projetos e no aprendizado c
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
    <img align = "center" height = "30" width = "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+   <img align = "center" height = "70" width = "50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 </p>
 
 ##
@@ -50,8 +49,36 @@ Buscando aprofundar meus conhecimentos em gestão de projetos e no aprendizado c
 
 ## 📈 Experiência Profissional
 
+🍎 Estudante/Desenvolvedora <b>iOS</b> na <b>Apple Developer Academy</b> | 2024-2025
+- Desenvolvimento de aplicativos iOS em Swift, utilizando diversos frameworks, como SwiftUI, UIKit, CloudKit, entre outros
+- Prática em metodologias ágeis, como SCRUM e KANBAM
+- Apresentações/Workshops de produtos desenvolvidos
+- Projetos em times de desenvolvimento
+- Versionamento de código com git
+- Foco em aplicações com acessibilidade
+- Experiência na publicação de aplicativos de App Store Connect
+
 ## 🎓 Formação Acadêmica
 
-## ❤️ Competências
+<b>💻 Análise e Desenvolvimento de Sistemas | 2024-presente </b>
+- Projetar sistemas
+- Levantamento e análise de requisitos
+- Construção de diagramas
+- Algoritmos e estruturas de dados
+- Programação com diversas linguagens de programação, como C e JAVA
+- Banco de Dados com SQL
+
+##
+
+<b>🖥️ Técnico em Informática - Fundação Matias Machline | 2021-2023 </b>
+- Campeã Geral da Feira de Tecnologia e Inovação 2023
+- 1º lugar na trilha de fontes renovavéis e cidades inteligentes
+- Criação de páginas WEB, com HTML e CSS
+- Criação de aplicações mobile
+- Arquitetura de computadores
+- Apresentação de projeto final
 
 ## 🌐 Idiomas
+
+- <b>🇧🇷 Português</b>: Nativo 
+- <b>🇺🇸 Inglês</b>: Intermediário 
