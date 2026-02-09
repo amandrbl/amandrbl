@@ -50,7 +50,7 @@ Sempre buscando aprofundar meus conhecimentos em gestão de projetos e no aprend
 
 ## 📈 Experiência Profissional
 
-🍎 Estudante/Desenvolvedora <b>iOS</b> na <b>Apple Developer Academy</b> | 2024-2025
+<b>🍎 Estudante/Desenvolvedora iOS na Apple Developer Academy | 2024-2025 </b>
 - Desenvolvimento de aplicativos iOS em Swift, utilizando diversos frameworks, como SwiftUI, UIKit, CloudKit, entre outros
 - Prática em metodologias ágeis, como SCRUM e KANBAM
 - Apresentações/Workshops de produtos desenvolvidos
