@@ -39,6 +39,7 @@ Sempre buscando aprofundar meus conhecimentos em gestão de projetos e no aprend
 
 <div style = "display: inline_block"><br>
     <a href="https://github.com/amandrbl/BadAir"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/b3f1a012-a7a3-451c-83d7-0ac8c2f64f3e"/></a>
+   <a href="https://github.com/amandrbl/BadAir"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/67f71167-e51e-4a9f-b398-73f82421f0c5" /></a>
     <a href="https://github.com/amandrbl/Paladares"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/22631439-7ef6-4936-b8ff-481321ff1553" /></a>
     <a href="https://github.com/amandrbl/Quem-Matou-Meus-Cachos"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/af455af8-6090-43a4-b959-9b6352825e76" /></a>
     <a href="https://github.com/amandrbl/Lumina"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/056b5375-94e5-41a7-93f4-cc8152f61be3" /></a>
