@@ -38,7 +38,7 @@ Sempre buscando aprofundar meus conhecimentos em gestão de projetos e no aprend
 ## 📱 Apps desenvolvidos
 
 <div style = "display: inline_block"><br>
-   <a href="https://github.com/amandrbl/BadAir"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/67f71167-e51e-4a9f-b398-73f82421f0c5" /></a>
+   <a href="https://github.com/amandrbl/Duet"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/67f71167-e51e-4a9f-b398-73f82421f0c5" /></a>
     <a href="https://github.com/amandrbl/Beezzy"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/0cee4a47-94ff-4e89-be3b-28314c9ac3e8" /></a>
     <a href="https://github.com/amandrbl/BadAir"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/b3f1a012-a7a3-451c-83d7-0ac8c2f64f3e"/></a>
     <a href="https://github.com/amandrbl/Paladares"><img align = "center" height = "50" width = "50" src="https://github.com/user-attachments/assets/22631439-7ef6-4936-b8ff-481321ff1553" /></a>
