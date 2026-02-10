@@ -4,6 +4,7 @@ Me chamo Amanda Rabelo, e sou <b>desenvolvedora e analista de software</b>, alé
 Sempre buscando aprofundar meus conhecimentos em gestão de projetos e no aprendizado contínuo de diversas linguagens de programação.
 
 - Formada pela <b>Apple Developer Academy</b>
+- Desenvolvedora de aplicativos de Swift certificada pela Apple
 - 3 apps publicados na AppStore
 - Cursando <b>Análise e Desenvolvimento de Sistemas</b>
 - <b>Técnica em Informática</b> pela Fundação Matias Machline
