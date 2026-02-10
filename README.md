@@ -52,6 +52,7 @@ Sempre buscando aprofundar meus conhecimentos em gestão de projetos e no aprend
 
 <b>🍎 Estudante/Desenvolvedora iOS na Apple Developer Academy | 2024-2025 </b>
 - Desenvolvimento de aplicativos iOS em Swift, utilizando diversos frameworks, como SwiftUI, UIKit, CloudKit, entre outros
+- Criação de apps iOS orientadas a desafios reais, utilizando Challenge Based Learning (CBL)
 - Prática em metodologias ágeis, como SCRUM e KANBAM
 - Apresentações/Workshops de produtos desenvolvidos
 - Projetos em times de desenvolvimento
