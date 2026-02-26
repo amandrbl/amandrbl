@@ -10,7 +10,7 @@ Estou sempre buscando aprofundar meus conhecimentos em gestão de projetos e no 
 - <b>Técnica em Informática</b> pela Fundação Matias Machline
 - <b>Campeã Geral da Feira de Inovação e Tecnologia FMM 2023</b>
 - Sou manauara, natural do Amazonas
-- Contato: amandarabelo.558@gmail.com
+- Contato: amandarabelo.dev@gmail.com
 
 ## 🛠️ Ferramentas
 
